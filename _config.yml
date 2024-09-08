@@ -1,0 +1,11 @@
+# _config.yml
+title: Data-Personal-Chiro-and-FM
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to the repository for Chiropractic and Functional Medicine resources.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tolko1vmire.github.io" # the base hostname & protocol for your site
+theme: jekyll-theme-primer
+
+markdown: kramdown
+kramdown:
+  input: GFM
